@@ -29,6 +29,7 @@ export interface ContactInfo {
   phone: string;
   phoneDisplay: string;
   facebookUrl: string;
+  facebookFanpageUrl?: string;
   zaloGroupUrl: string;
   zaloChatUrl: string;
 }

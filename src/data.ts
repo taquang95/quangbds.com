@@ -4,7 +4,8 @@ export const contactData: ContactInfo = {
   phone: '0359622268',
   phoneDisplay: '0359 622 268',
   facebookUrl: 'https://www.facebook.com/ta.quang95',
-  zaloGroupUrl: 'https://zalo.me/g/quangbds', // fallbacks to typical structure or standard user shortlink zalo.quangbds.com
+  facebookFanpageUrl: 'https://www.facebook.com/QuangMasteriseHomess',
+  zaloGroupUrl: 'https://zalo.quangbds.com',
   zaloChatUrl: 'https://zalo.me/0359622268'
 };
 

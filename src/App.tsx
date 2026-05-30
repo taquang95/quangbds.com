@@ -12,7 +12,7 @@ import StickyBottomBar from './components/StickyBottomBar';
 export default function App() {
   useEffect(() => {
     // Add title change or meta adjustments if needed
-    document.title = 'Tạ Vinh Quang - Chuyên Viên Tư Vấn BĐS Vinhomes & Masterise Homes';
+    document.title = 'Quang Masterise Homes - Tư Vấn Bất Động Sản Cao Cấp Masterise Homes Ocean City';
   }, []);
 
   return (

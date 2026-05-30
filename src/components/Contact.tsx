@@ -36,9 +36,19 @@ export default function Contact() {
     },
     {
       id: 'c4',
+      title: 'Fanpage Quang Masterise Homes',
+      description: 'Cập nhật bảng giá & chính sách mới nhất',
+      label: 'Quang Masterise Homes',
+      href: contactData.facebookFanpageUrl || 'https://www.facebook.com/QuangMasteriseHomess',
+      icon: Facebook,
+      colorClass: 'bg-gradient-to-r from-blue-700 to-indigo-800 border-indigo-700 text-white hover:from-blue-600 hover:to-indigo-700 hover:scale-[1.01]',
+      isExternal: true
+    },
+    {
+      id: 'c5',
       title: 'Facebook cá nhân',
       description: 'Xem hoạt động & kết nối cá nhân',
-      label: '/ta.quang95',
+      label: 'Tạ Vinh Quang',
       href: contactData.facebookUrl,
       icon: Facebook,
       colorClass: 'bg-sky-700 border-sky-700/30 text-white hover:bg-sky-600 hover:scale-[1.01]',

@@ -20,6 +20,8 @@ export default function Hero() {
           src="https://i.postimg.cc/kMZTYyr0/Thiet-ke-chua-co-ten.png"
           alt="Ocean City - Masterise Homes Cover"
           referrerPolicy="no-referrer"
+          fetchPriority="high"
+          decoding="async"
           className="w-full h-full object-cover transition-all duration-700 group-hover:scale-105"
         />
         <div className="absolute inset-0 bg-gradient-to-t from-premium-dark/80 via-transparent to-black/10 pointer-events-none" />
@@ -40,6 +42,8 @@ export default function Hero() {
               src="https://i.postimg.cc/5tZYvjQ5/vest-xam.png" 
               alt="Tạ Vinh Quang - Chuyên viên tư vấn BĐS" 
               referrerPolicy="no-referrer"
+              fetchPriority="high"
+              decoding="async"
               className="w-full h-full object-cover transition-all duration-500 hover:scale-105"
             />
           </div>
