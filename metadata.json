@@ -1,0 +1,6 @@
+{
+  "name": "QuangBDS - Landing Page Cá Nhân",
+  "description": "Landing Page giới thiệu thương hiệu cá nhân của Tạ Vinh Quang - Chuyên viên tư vấn BĐS Vinhomes & Masterise Homes tại Ocean Park",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
